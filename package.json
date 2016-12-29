@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "none.js"
+  },
+  "author": "Ameen Demidem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
